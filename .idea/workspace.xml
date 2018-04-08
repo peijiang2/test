@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="984ed59d-2e44-4749-8f48-ae052f68449f" name="Default" comment="我的文件提交">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/test/DevTest.java" />
+    <list default="true" id="984ed59d-2e44-4749-8f48-ae052f68449f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/test/Hello.java" afterPath="$PROJECT_DIR$/src/com/test/Hello.java" />
     </list>
     <ignored path="Test1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +38,8 @@
       <file leaf-file-name="DevTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/test/DevTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            <state relative-caret-position="95">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding>
                 <element signature="e#134#135#0" expanded="true" />
                 <element signature="e#179#180#0" expanded="true" />
@@ -611,12 +608,20 @@
       <updated>1523105415823</updated>
       <workItem from="1523105420375" duration="1322000" />
       <workItem from="1523110911027" duration="1355000" />
-      <workItem from="1523193415518" duration="750000" />
+      <workItem from="1523193415518" duration="801000" />
     </task>
+    <task id="LOCAL-00001" summary="我的文件提交">
+      <created>1523194221879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523194221879</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3427000" />
+    <option name="totallyTimeSpent" value="3478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="0" />
@@ -694,8 +699,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/test/DevTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        <state relative-caret-position="95">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding>
             <element signature="e#134#135#0" expanded="true" />
             <element signature="e#179#180#0" expanded="true" />
