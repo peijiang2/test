@@ -5,6 +5,6 @@ package com.test;
  */
 public class DevTest {
     public static void main(String[] args) {
-        System.out.print("我的测试dev分支");
+        System.out.print("我的测试master分支");
     }
 }
