@@ -5,8 +5,8 @@ package com.test;
  */
 public class Hello {
     public static void main(String[] args) {
-        System.out.print("我叫车配江");
-        System.out.print("我叫车配江");
-        System.out.print("我叫车配江");
+        System.out.print("9999999");
+        System.out.print("9999999");
+        System.out.print("9999999");
     }
 }
